@@ -1,0 +1,50 @@
+{
+    "users":
+        [
+        {
+            "id": 1,
+            "username": "juanx",
+            "email": "juan1@pepe.com",
+            "firstName": null,
+            "lastName": null,
+            "companyName": null,
+            "active": false
+        },
+        {
+            "id": 2,
+            "username": "miguel",
+            "email": "miguel@test.com",
+            "firstName": "Miguel",
+            "lastName": "Perez",
+            "companyName": "Miguel LLC",
+            "active": true
+        },
+        {
+            "id": 3,
+            "username": "martin",
+            "email": "martin@test.com",
+            "firstName": "Martin",
+            "lastName": "Perez",
+            "companyName": "Martin LLC",
+            "active": true
+        },
+        {
+            "id": 4,
+            "username": "pepe",
+            "email": "pepe@test.com",
+            "firstName": "Pepe",
+            "lastName": "Perez",
+            "companyName": "Pepe LLC",
+            "active": true
+        },
+        {
+            "id": 5,
+            "username": "geisha",
+            "email": "geisha@test.com",
+            "firstName": "Geisha",
+            "lastName": "Suero",
+            "companyName": "Juan & Asociados",
+            "active": true
+        }
+    ]
+}
